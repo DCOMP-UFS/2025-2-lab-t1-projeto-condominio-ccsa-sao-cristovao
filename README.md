@@ -10,3 +10,8 @@ Repositorio do Laboratorio Individual : https://github.com/DCOMP-UFS/2025-2-lab-
 Técnico responsável: Breno Silva do Nascimento
 
 Repositório do Laboratório individual: https://github.com/DCOMP-UFS/2025-2-lab-t1-projeto-lab-site-vrennen
+
+### Grupo de Pesquisa Desenvolvimento Econômico Local 
+Técnico responsável: Fernanda Karoliny Santos Silva
+
+Repositório do Laboratório Individual: https://github.com/DCOMP-UFS/2025-2-lab-t1-projeto-lab-site-FernandaKaroliny
