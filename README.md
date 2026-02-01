@@ -1,6 +1,4 @@
 # Projeto de Redes: Condomínio de Laboratórios
-## Grupos de Pesquisa
-
 # Proposta Integrada de Condomínio - CCSA
 
 Este documento centraliza os recursos técnicos dos 5 laboratórios integrados.
