@@ -1,17 +1,18 @@
 # Projeto de Redes: Condomínio de Laboratórios
 ## Grupos de Pesquisa
 
-### Grupo de Pesquisa em Antropologia e Turismo - ANTUR
-Tecnico Responsavel : Rafael Gomes Oliveira Santos
+# Proposta Integrada de Condomínio - CCSA
 
-Repositorio do Laboratorio Individual : https://github.com/DCOMP-UFS/2025-2-lab-t1-projeto-lab-site-RafaelGomes8994
+Este documento centraliza os recursos técnicos dos 4 laboratórios integrados.
 
-### Grupo de Pesquisa sobre Política Internacional e Sul-Americana (GP-SUL) 
-Técnico responsável: Breno Silva do Nascimento
+## 1. Grupo ANTUR (Antropologia e Turismo)
+* **Descrição Técnica:**  Infraestrutura completa de processamento e rede de alto desempenho. O laboratório conta com um núcleo de processamento composto por 1 Workstation de alta performance e 4 estações All-in-One para triagem de dados. A rede estruturada possui conectividade Wi-Fi 6, Switch de 48 portas com uplinks de 10Gb (SFP+) e Gateway (commpartilhado com o condominio) de segurança para proteção perimetral. Todo o sistema é protegido por um Nobreak Senoidal de 2000VA, alojado em rack de 19" e complementado por mobiliário ergonômico (9 cadeiras rotatórias).
+* **Link AWS:** [http://3.92.152.134](http://3.92.152.134)
 
-Repositório do Laboratório individual: https://github.com/DCOMP-UFS/2025-2-lab-t1-projeto-lab-site-vrennen
+## 2. Grupo de Pesquisa Desenvolvimento Econômico Local* 
+- **Descrição Técnica:** 3 Desktops All-in-One 24 pol, 3 Monitores Ultrawide 24 polegadas, 1 Projetor multimída, 1 Impressora Laser HP-Pro, 1 Computador de Alto Desempenho, 8 Cadeira de escritório, 1 Roteador Wi-Fi 6, 1 Switch 48 Portas, 1 Nobreak Senoidal 2000VA/1400W, 1 Gateway, 1 Rack 6U 19" e Cabos  CAT5e
+- **Link AWS:** [http://3.85.3.100]
 
-### Grupo de Pesquisa Desenvolvimento Econômico Local 
-Técnico responsável: Fernanda Karoliny Santos Silva
-
-Repositório do Laboratório Individual: https://github.com/DCOMP-UFS/2025-2-lab-t1-projeto-lab-site-FernandaKaroliny
+## 3. Grupo de Pesquisa sobre Política Internacional e Sul-Americana (GP-SUL)
+* **Descrição Técnica:** Infraestrutura de rede com 3 Switches, 5 pontos de acesso, Gateway FortiGate, 5 Workstations, 1 impressora sem fio e 1 projetor.
+* **Link AWS:** [http://98.92.76.3](http://98.92.76.3)
