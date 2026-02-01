@@ -14,7 +14,7 @@ Este documento centraliza os recursos técnicos dos 5 laboratórios integrados.
 - **Link AWS:** [http://3.85.3.100](http://3.85.3.100)
 
 ## 3. Grupo de Pesquisa sobre Política Internacional e Sul-Americana (GP-SUL)
-* **Descrição Técnica:** Infraestrutura de rede com 3 Switches, 5 pontos de acesso, Gateway FortiGate, 5 Workstations, 1 impressora sem fio e 1 projetor.
+* **Descrição Técnica:** Infraestrutura avançada de processamento e análise geopolítica para o GP-SUL. O laboratório possui um núcleo de computação composto por 1 computador de alto desempenho e 3 estações All-in-One, complementados por 3 monitores de 24 polegadas para análise multitarefa e visualização de dados. A rede estruturada oferece conectividade Wi-Fi 6 de alta densidade e um Switch gerenciável de 48 portas com uplinks de 10Gb (SFP+) para garantir o tráfego de dados em alta velocidade. O ambiente é equipado com recursos multimídia e de suporte, incluindo 1 projetor e 1 impressora institucional, além de mobiliário ergonômico composto por 8 cadeiras, totalizando um investimento de R$ 49.446,56 em atas de registro de preços.
 * **Link AWS:** [http://98.92.76.3](http://98.92.76.3)
 
 ## 4. Laboratório de Pesquisa em Hermenêutica Constitucional
