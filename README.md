@@ -18,7 +18,7 @@ Este documento centraliza os recursos técnicos dos 5 laboratórios integrados.
 * **Link AWS:** [http://98.92.76.3](http://98.92.76.3)
 
 ## 4. Laboratório de Pesquisa em Hermenêutica Constitucional
-* **Descrição Técnica:** Infraestrutura especializada em Jurimetria e segurança de dados. Conta com Cluster de Servidores (Web, Banco de Dados e NAS), 3 Workstations de alto desempenho, Rede segmentada (VLANs), Switch L3, Wi-Fi 6, Gateway de Borda com Firewall, Rack 19" e Nobreak Senoidal 2200VA.
+* **Descrição Técnica:** Infraestrutura especializada em Jurimetria e segurança de dados. Conta com Cluster de Servidores (Web, Banco de Dados e NAS), 3 Workstations de alto desempenho, Rede segmentada (VLANs), Switch L3, Wi-Fi 6, Gateway de Borda com Firewall
 * **Link AWS:** [http://100.50.141.130:80](http://100.50.141.130:80)
 
 ## 5. Grupo de Estudo e Pesquisa do Envelhecimento Humano
