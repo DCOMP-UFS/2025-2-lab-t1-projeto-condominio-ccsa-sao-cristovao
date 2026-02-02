@@ -1,9 +1,8 @@
-# Usa a imagem leve do Nginx
+# Usa uma imagem leve do servidor Nginx (ideal para sites estáticos)
 FROM nginx:alpine
 
-# Copia o seu site unificado para a pasta padrão do Nginx
-# Certifique-se de que o arquivo no git se chama 'index.html'
-COPY . /usr/share/nginx/html/index.html
+# Copia os ficheiros do teu repositório para a pasta do servidor web
+COPY . /usr/share/nginx/html
 
-# Expõe a porta 80
+# Informa que o servidor vai usar a porta 80 (padrão HTTP)
 EXPOSE 80
