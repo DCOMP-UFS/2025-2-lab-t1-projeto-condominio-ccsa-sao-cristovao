@@ -2,6 +2,7 @@
 # Proposta Integrada de Condomínio - CCSA
 
 Este documento centraliza os recursos técnicos dos 5 laboratórios integrados.
+Link do AWS com os 5 sites juntos em um condominio : [http://3.233.217.249](http://3.233.217.249)
 
 ## 1. Grupo ANTUR (Antropologia e Turismo)
 * **Descrição Técnica:**  Infraestrutura completa de processamento e rede de alto desempenho. O laboratório conta com um núcleo de processamento composto por 1 Workstation de alta performance e 4 estações All-in-One para triagem de dados. A rede estruturada possui conectividade Wi-Fi 6, Switch de 48 portas com uplinks de 10Gb (SFP+) e Gateway (commpartilhado com o condominio) de segurança para proteção perimetral. Todo o sistema é protegido por um Nobreak Senoidal de 2000VA, alojado em rack de 19" e complementado por mobiliário ergonômico (9 cadeiras rotatórias).
